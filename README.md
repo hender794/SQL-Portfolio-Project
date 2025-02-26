@@ -1,1 +1,1 @@
-# SQL-Portfolio-Project
+This is a SQL Project where I look at data from COVID involving deaths and vaccinations. I worked on organizing and finding interesting data throughout these large datasets to make the data more presentable and easy to read. I followed a Youtube video series to learn all of the skills and information to then apply my knowledge and skills from a Youtube example project.
